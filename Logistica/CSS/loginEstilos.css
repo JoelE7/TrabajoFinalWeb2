@@ -1,0 +1,31 @@
+#asunto{
+    resize: none;
+}
+
+.violeta{
+    color: #709;
+}
+
+.naranja{
+    color: #ff8000;
+}
+
+.btn-orange{
+    color: #fff;
+    background-color: #ff8000;
+    border-color: #ff8000;
+}
+
+.btn-violet{
+    color: #fff;
+    background-color: #709;
+    border-color: #709;
+}
+
+.text-orange{
+    color: #ff8000;
+}
+
+.text-violet{
+    color: #709;
+}
